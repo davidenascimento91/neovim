@@ -3,18 +3,18 @@
 [install neovim](https://neovim.io/doc/install)
 
 
-## Clone config
-### UNIX config path 
+## Config path 
+### UNIX 
 ```
 ~/.config/nvim
 ````
 
-### Windows config path 
+### Windows 
 ```
 ~\AppData\Local\nvim\
 ```
 
-
+## Clone Neovim config
 
 ```
 git clone git@github.com:davidenascimento91/neovim.git
