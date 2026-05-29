@@ -26,7 +26,7 @@ rm ./READEME.md ./.gitignore
 
 ## External dependencies
 
-(ripgrep)[https://github.com/BurntSushi/ripgrep#installation]
+[ripgrep](https://github.com/BurntSushi/ripgrep#installation)
 
 ### Windows 
 
