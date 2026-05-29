@@ -19,7 +19,7 @@
 ```
 git clone git@github.com:davidenascimento91/neovim.git
 
-rm ./READEME.md ./.gitignore
+rm ./README.md ./.gitignore
 ```
 
 
